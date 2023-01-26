@@ -3,6 +3,8 @@ public class C{
 public static void main(String[] args){
 
 System.out.println("This code is developed by developer C");
+
+System.out.println("This code is updated");
 }
 
 }
